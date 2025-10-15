@@ -1,0 +1,5 @@
+{
+  "name": "Mozo Image Scanner",
+  "description": "Mozo Image Scanner is an application that analyzes and understands the content of uploaded images. Users can upload an image, ask a question about it, and receive an AI-generated description or analysis.",
+  "requestFramePermissions": []
+}
